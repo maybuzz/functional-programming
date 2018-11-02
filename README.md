@@ -15,14 +15,12 @@ Ik ben benieuwd hoeveel procent de Harry Potter serie uitmaakt van Rowling haar 
 Ik heb voor mezelf eerst alles opgedeeld in algemene stappen. Vervolgens ben ik deze een voor een aan gaan pakken. De code is te vinden in Results.
 
 <details><summary>Stap 1: J.R.R. Tolkien Nederlands</summary>
- ```
   stap 1: zoeken op Tolkien (dutch)   
   stap 2: post string "In de ban van de ring" (dutch)   
   stap 3: post string "De hobbit" (dutch)   
   stap 4: check minste aantal pagina's   
   stap 5: check meeste aantal pagina's   
   stap 6: check gemiddeld aantal pagina's
- ```
 </details>
 
 <details><summary>Stap 2: J.R.R. Tolkien Engels</summary>
