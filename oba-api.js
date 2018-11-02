@@ -52,8 +52,4 @@ module.exports = class api {
       })
     })
   }
-
-  getAll() {
-
-  }
 }
