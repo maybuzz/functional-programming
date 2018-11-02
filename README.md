@@ -22,7 +22,7 @@ Ik heb voor mezelf eerst alles opgedeeld in algemene stappen. Vervolgens ben ik 
   stap 4: check minste aantal pagina's   
   stap 5: check meeste aantal pagina's   
   stap 6: check gemiddeld aantal pagina's
- ``
+ ```
 </details>
 
 <details><summary>Stap 2: J.R.R. Tolkien Engels</summary>
