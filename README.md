@@ -43,38 +43,45 @@ Ik heb voor mezelf eerst alles opgedeeld in algemene stappen. Vervolgens ben ik 
 </details>
 
 <details><summary>Stap 3: J.R.R. Tolkien gemiddelde vergelijken</summary>
+<<<<<<< HEAD
   stap 1: neem het gemiddelde van nederlande serie      
   stap 2: neem het gemiddelde van engelse serie     
   stap 3:** vergelijk de 2 met elkaar     
 **stap 4:** antwoord!     
+=======
+ stap 1: neem het gemiddelde van nederlande serie      
+ stap 2: neem het gemiddelde van engelse serie     
+ stap 3: vergelijk de 2 met elkaar     
+ stap 4: antwoord!     
+>>>>>>> 9cf3abb0c12abb34d2f97c5501c888b78cf9c425
 </details>
 
 <details><summary>Stap 4: J.K. Rowling Nederlands</summary>
-**stap 1:** zoeken op J.K. Rowling (dutch)     
-**stap 2:** post string "Harry Potter" (dutch)     
-**stap 3:** check minste aantal pagina's     
-**stap 4:** check meeste aantal pagina's     
-**stap 5:** check gemiddeld aantal pagina's     
+stap 1: zoeken op J.K. Rowling (dutch)     
+ stap 2: post string "Harry Potter" (dutch)     
+ stap 3: check minste aantal pagina's     
+ stap 4: check meeste aantal pagina's     
+ stap 5: check gemiddeld aantal pagina's     
 </details>
 
 <details><summary>Stap 5: J.K. Rowling Engels</summary>
-**stap 1:** zoeken op JKRowling (english)     
-**stap 2:** post string "Harry Potter" (english)     
-**stap 3:** check minste aantal pagina's     
-**stap 4:** check meeste aantal pagina's     
-**stap 5:** check gemiddeld aantal pagina's     
+ stap 1: zoeken op JKRowling (english)     
+ stap 2: post string "Harry Potter" (english)     
+ stap 3: check minste aantal pagina's     
+ stap 4: check meeste aantal pagina's     
+ stap 5: check gemiddeld aantal pagina's     
 </details>
 
 <details><summary>Stap 6: J.K. Rowling gemiddelde vergelijken</summary>
-**stap 1:** neem het gemiddelde van nederlande serie     
-**stap 2:** neem het gemiddelde van engelse serie     
-**stap 3:** vergelijk de 2 met elkaar     
-**stap 4:** antwoord!    
+ stap 1: neem het gemiddelde van nederlande serie     
+ stap 2: neem het gemiddelde van engelse serie     
+ stap 3: vergelijk de 2 met elkaar     
+ stap 4: antwoord!    
 </details>
 
 <details><summary>Stap 7: Laatste stappen</summary>
-  **stap 1:** Vergelijk het gemiddeld aantal pagina's van lord of the rings met harry Potter    
-  **stap 2:** antwoord!    
+  stap 1: Vergelijk het gemiddeld aantal pagina's van lord of the rings met harry Potter    
+  stap 2: antwoord!    
 </details>
 
 ---   
