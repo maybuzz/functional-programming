@@ -6,6 +6,9 @@
 [3. Stappen-stappen-plan](#stappen-stappen-plan)<br>
 [4. Results](#results)<br>
 
+## TODO
+Tolkien "foute data" omzetten naar goeie (2 dl. blabla en [104])
+
 ## Onderzoeksvragen
 - In welke tijd van het jaar worden de meeste boeken uitgebracht?
 - Worden er tegenwoordig meer of minder boeken geschreven dan 50/60 jaar geleden?

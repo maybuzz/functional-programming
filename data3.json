@@ -1,0 +1,362 @@
+[
+      {
+        "book": "Harry Potter en het vervloekte kind : deel een en twee",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 367
+          }
+        ]
+      },
+      {
+        "book": "Harry Potter en de vuurbeker",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 547
+          }
+        ]
+      },
+      {
+        "book": "Harry Potter en de steen der wijzen",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 228
+          },
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 227
+          }
+        ]
+      },
+      {
+        "book": "Een interview met J.K. Rowling",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 63
+          }
+        ]
+      },
+      {
+        "book": "Harry Potter en de Orde van de Feniks",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 668
+          }
+        ]
+      },
+      {
+        "book": "Harry Potter en de geheime kamer",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 254
+          },
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 254
+          }
+        ]
+      },
+      {
+        "book": "Harry Potter en de gevangene van Azkaban",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 326
+          },
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 326
+          }
+        ]
+      },
+      {
+        "book": "Harry Potter en de halfbloed prins",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 555
+          }
+        ]
+      },
+      {
+        "book": "Harry Potter en de relieken van de dood",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 541
+          }
+        ]
+      },
+      {
+        "book": "Fabeldieren en waar ze te vinden",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 139
+          }
+        ]
+      },
+      {
+        "book": "Een goede raad",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 540
+          }
+        ]
+      },
+      {
+        "book": "De vertelsels  van Baker de Bard : vert. uit het Engels Wiebe Buddingh'",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 125
+          },
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 125
+          },
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 125
+          }
+        ]
+      },
+      {
+        "book": "Zwerkbal door de eeuwen heen",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 101
+          },
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 101
+          }
+        ]
+      },
+      {
+        "book": "Wat belangrijk is : over het belang van verbeelding en waarom fouten maken juist goed is",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 79
+          }
+        ]
+      },
+      {
+        "book": "Fantastic beasts and where to find themTM : het complete filmscenario",
+        "values": [
+          {
+            "bookAuthor": "Rowling, J.K.",
+            "pages": 297
+          }
+        ]
+  },
+      {
+        "book": "De hobbit",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 253
+          }
+        ]
+      },
+      {
+        "book": "De reisgenoten",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 547
+          }
+        ]
+      },
+      {
+        "book": "De terugkeer van de koning",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 360
+          }
+        ]
+      },
+      {
+        "book": "De twee torens",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 410
+          }
+        ]
+      },
+      {
+        "book": "Brieven",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 588
+          }
+        ]
+      },
+      {
+        "book": "De Silmarillion",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 415
+          }
+        ]
+      },
+      {
+        "book": "In de ban van de ring",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 1248
+          }
+        ]
+      },
+      {
+        "book": "Brieven van de Kerstman",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 111
+          }
+        ]
+      },
+      {
+        "book": "De kinderen van Húrin",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 317
+          }
+        ]
+      },
+      {
+        "book": "De legende van Sigurd en Gudrún",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 378
+          }
+        ]
+      },
+      {
+        "book": "Roverandom",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 125
+          }
+        ]
+      },
+      {
+        "book": "Sprookjes en vertellingen",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 292
+          }
+        ]
+      },
+      {
+        "book": "Nagelaten vertellingen",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 587
+          }
+        ]
+      },
+      {
+        "book": "De hobbit, of Daarheen en weer terug",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 300
+          }
+        ]
+      },
+      {
+        "book": "Arthurs val",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 291
+          }
+        ]
+      },
+      {
+        "book": "De avonturen van Tom Bombadil",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 90
+          },
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 68
+          }
+        ]
+      },
+      {
+        "book": "De smid van Groot Wolding",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 91
+          }
+        ]
+      },
+      {
+        "book": "Beren en Lúthien : de terugkeer naar Midden-aarde",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 278
+          }
+        ]
+      },
+      {
+        "book": "In de ban van de ring: aanhangsels",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 159
+          },
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 159
+          }
+        ]
+      },
+      {
+        "book": "Boer Gilles van Ham",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 91
+          },
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 231
+          }
+        ]
+      },
+      {
+        "book": "Sprookjes",
+        "values": [
+          {
+            "bookAuthor": "Tolkien, J.R.R.",
+            "pages": 152
+          }
+        ]
+      }
+  ]

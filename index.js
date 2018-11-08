@@ -1,15 +1,14 @@
 require("dotenv").config()
 
 const axios = require("axios")
-const api = require("./oba-api.js")
-const chalk = require("chalk");
+const gissaApi = require("./oba-api-gissa.js")
+const chalk = require("chalk")
 const express = require("express")
 const app = express()
 const port = 1999
 
-const obaApi = new api({
-  url: "https://zoeken.oba.nl/api/v1/",
-  key: process.env.PUBLIC
+const obaApi = new gissaApi({
+  public: process.env.PUBLIC
 })
 
 // Search for method, params and than optional where you wanna find something
@@ -20,31 +19,40 @@ const obaApi = new api({
 // possible filterKey: any higher order key in response object, like title returns only title objects instead of full data object
 
 axios.all([
-  // obaApi.get("search", {
-  //   facet: ["type(book)", "language(dut)"],
-  //   q: "author:J.R.R. Tolkien",
-  //   // page: 2,
-  //   librarian: true,
-  //   refine: true
-  // }),
+ // obaApi.getAll("search", {
+ //      facet: "type(book)&facet=language(dut)",
+ //      q: "author:J.K. Rowling",
+ //      librarian: true,
+ //      refine: true
+ //    }),
+  obaApi.getAll("search", {
+      facet: "type(book)&facet=language(dut)",
+      q: "author:J.R.R. Tolkien",
+      librarian: true,
+      refine: true
+    },
+    {
+      page:1,
+      pagesize: 20,
+      maxpages: 6
+    })
 
-  obaApi.get("search", {
-    facet: ["type(book)", "language(dut)"],
-    q: "author:J.K. Rowling",
-    page: 2,
-    librarian: true,
-    refine: true
-  })
-
-]).then(axios.spread(function iets(auteur){
-  let res = auteur.data.aquabrowser.results[0]
+]).then(axios.spread(response => {
+  let res = response.data
   let allArr = []
-  let newArr = res.result.map(function (book){
+  let newArr = res.map(book => {
     let bookTitle = book.titles[0].title[0]._
     let bookAuthor = book.authors[0]["main-author"][0]._
-    let totalPages = book.description[0]["physical-description"][0]._
+    let pages = book.description[0]["physical-description"][0]._
 
-    let allObj = {bookTitle, bookAuthor, totalPages}
+    if (bookAuthor !== "Tolkien, J.R.R." && bookAuthor !== "Rowling, J.K.") {
+      return
+    }
+
+    bookTitle = bookTitle.substring(0, bookTitle.indexOf('/')).trim()
+    pages = Number(pages.substring(0, pages.indexOf('p')).trim())
+
+    let allObj = {bookTitle, bookAuthor, pages}
 
     allArr.push(allObj)
   })
@@ -54,7 +62,7 @@ axios.all([
 })).then(response => {
   app.get("/", (req, res) => res.json(response))
   app.listen(port, () => {
-    console.log(chalk.green("Listening on port ${port}"))
+    console.log(chalk.green("Listening on port " + port))
   })
-    // Both requests are now complete
-  })
+})
+.catch(err => console.log(err))
