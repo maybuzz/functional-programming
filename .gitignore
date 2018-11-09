@@ -2,10 +2,7 @@ node_modules/
 .env
 README2.md
 howtogithub.md
-d3/
-data.json
 data2.json
 .DS_Store
 data-rowling.json
 data-tolkien.json
-data.tsv

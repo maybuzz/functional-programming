@@ -1,4 +1,4 @@
-d3.json('data3.json').then( data => {
+d3.json('/data/data.json').then( data => {
 
   var writers = d3.nest()
     .key(book => {

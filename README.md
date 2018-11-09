@@ -9,6 +9,20 @@
 ## TODO
 Tolkien "foute data" omzetten naar goeie (2 dl. blabla en [104])
 
+#### J.R.R. Tolkien Engels
+  stap 1: zoeken op Tolkien (english)    
+  stap 2: post string "Lord of the rings" (english)    
+  stap 3: post sting "The Hobbit" (english)    
+  stap 4: check minste aantal pagina's    
+  stap 5: check meeste aantal pagina's    
+  stap 6: check gemiddeld aantal pagina's     
+
+#### J.R.R. Tolkien gemiddelde vergelijken
+  stap 1: neem het gemiddelde van nederlande serie      
+  stap 2: neem het gemiddelde van engelse serie     
+  stap 3: vergelijk de 2 met elkaar     
+  stap 4: antwoord!
+
 ## Onderzoeksvragen
 - In welke tijd van het jaar worden de meeste boeken uitgebracht?
 - Worden er tegenwoordig meer of minder boeken geschreven dan 50/60 jaar geleden?
@@ -27,69 +41,29 @@ Ik ben ook benieuwd hoeveel procent de Harry Potter serie uitmaakt van Rowling h
 ## Stappen-stappen-plan
 Ik heb voor mezelf eerst alles opgedeeld in algemene stappen. Vervolgens ben ik deze een voor een aan gaan pakken. De code is te vinden in Results.
 
-<details><summary>Stap 1: J.R.R. Tolkien Nederlands</summary>
-  stap 1: zoeken op Tolkien (dutch)   
-  stap 2: post string "In de ban van de ring" (dutch)   
-  stap 3: post string "De hobbit" (dutch)   
-  stap 4: check minste aantal pagina's   
-  stap 5: check meeste aantal pagina's   
-  stap 6: check gemiddeld aantal pagina's
-</details>
 
-<details><summary>Stap 2: J.R.R. Tolkien Engels</summary>
-  stap 1: zoeken op Tolkien (english)    
-  stap 2: post string "Lord of the rings" (english)    
-  stap 3: post sting "The Hobbit" (english)    
-  stap 4: check minste aantal pagina's    
-  stap 5: check meeste aantal pagina's    
-  stap 6: check gemiddeld aantal pagina's     
-</details>
+#### J.R.R. Tolkien
+  **stap 1:** zoeken op Tolkien    
+  **stap 2:** post string "In de ban van de ring"  
+  **stap 3:** post string "De hobbit"   
+  **stap 4:** check minste aantal pagina's   
+  **stap 5:** check meeste aantal pagina's   
+  **stap 6:** check gemiddeld aantal pagina's
 
-<details><summary>Stap 3: J.R.R. Tolkien gemiddelde vergelijken</summary>
-<<<<<<< HEAD
-  stap 1: neem het gemiddelde van nederlande serie      
-  stap 2: neem het gemiddelde van engelse serie     
-  stap 3:** vergelijk de 2 met elkaar     
-**stap 4:** antwoord!     
-=======
- stap 1: neem het gemiddelde van nederlande serie      
- stap 2: neem het gemiddelde van engelse serie     
- stap 3: vergelijk de 2 met elkaar     
- stap 4: antwoord!     
->>>>>>> 9cf3abb0c12abb34d2f97c5501c888b78cf9c425
-</details>
+#### J.K. Rowling
+**stap 1:** zoeken op J.K. Rowling   
+ **stap 2:** post string "Harry Potter"   
+ **stap 3:** check minste aantal pagina's     
+ **stap 4:** check meeste aantal pagina's     
+ **stap 5:** check gemiddeld aantal pagina's       
 
-<details><summary>Stap 4: J.K. Rowling Nederlands</summary>
-stap 1: zoeken op J.K. Rowling (dutch)     
- stap 2: post string "Harry Potter" (dutch)     
- stap 3: check minste aantal pagina's     
- stap 4: check meeste aantal pagina's     
- stap 5: check gemiddeld aantal pagina's     
-</details>
-
-<details><summary>Stap 5: J.K. Rowling Engels</summary>
- stap 1: zoeken op JKRowling (english)     
- stap 2: post string "Harry Potter" (english)     
- stap 3: check minste aantal pagina's     
- stap 4: check meeste aantal pagina's     
- stap 5: check gemiddeld aantal pagina's     
-</details>
-
-<details><summary>Stap 6: J.K. Rowling gemiddelde vergelijken</summary>
- stap 1: neem het gemiddelde van nederlande serie     
- stap 2: neem het gemiddelde van engelse serie     
- stap 3: vergelijk de 2 met elkaar     
- stap 4: antwoord!    
-</details>
-
-<details><summary>Stap 7: Laatste stappen</summary>
-  stap 1: Vergelijk het gemiddeld aantal pagina's van lord of the rings met harry Potter    
-  stap 2: antwoord!    
-</details>
+#### Laatste stappen
+  **stap 1:** Vergelijk het gemiddeld aantal pagina's van lord of the rings met harry Potter    
+  **stap 2:** antwoord!    
 
 ---   
 
-### Results
+### Data
 Hier een overzicht van de resultaten voor de zoekopdrachten per auteur.
 
 #### "In de ban van de ring" & "De Hobbit", door J.R.R. Tolkien (dutch)
