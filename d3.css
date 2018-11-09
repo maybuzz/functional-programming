@@ -1,14 +1,39 @@
 body {
+  background-color: #C9D7D6;
   font: 10px sans-serif;
+  padding: 2em;
+  position: relative;
+  text-align: center;
 }
 
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
+#vis{
+  position: relative;
+
 }
 
-.x.axis path {
-  /* display: none; */
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.legenda{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.block{
+  height: 2em;
+  width: 2em;
+}
+
+.tk{
+  background-color: peachpuff;
+  margin-left: 1em;
+}
+
+.jk{
+  background-color: tomato;
+  margin-left: 1em;
+  margin-right: 1em;
 }
