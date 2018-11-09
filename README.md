@@ -1,5 +1,27 @@
 # Functional-programming
 
+## Introduction
+
+Ik ben nog lang niet klaar en heb het dan ook opgegeven om te proberen om het af te krijgen. Ik was niet tevreden met mijn datavisualisatie. Ook niet met de mate waarin dit (niet) aansluit met mijn onderzoek -dat ook nog niet af was-.
+
+## Credits
+
+Ik heb om te beginnen veel hulp van Folkert-Jan vd Pol, Daniel vd Velde en Dennis Wegereef gehad. Zij hebben elk onderdelen geleverd die ik heb gebruikt in mijn datavisualisatie. Zo hebben Dennis en Folkert een API gebouwd die ik heb gebruikt. Ook heb ik veel met hen aan mijn code gezeten en functies geschreven. Daniel heeft ons vooral aan het begin goed geholpen. De eerste dagen van het project heeft hij de hele API uitgepluist.
+
+Voor mijn uiteindelijke datavisualisatie heb ik deze tutorial van Lynda gekeken.
+```
+https://www.lynda.com/D3-js-tutorials/Creating-meaninful-color-scales/594451/619567-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ad3%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+```
+Dit ging best wel goed, totdat ik erachter kwam dat mijn data niet goed ingeladen werd. Op advies van Titus stapte ik over op een ander voorbeeld.
+
+Ik ben met Chelsea, Linda en Jessy gaan zitten. Zij kwamen met een nieuw voorbeeld.
+```
+https://bl.ocks.org/bricedev/0d95074b6d83a77dc3ad
+```
+Hier heb ik mijn uiteindelijke datavisualisatie uit gemaakt.
+
+Achteraf ben ik wel blij en trots met wat ik geleerd heb. Ookal ben ik nogsteeds niet tevreden over mijn eindoplevering. Ik hoop dit voor de herkansing te kunnen verbeteren.
+
 ## Table of contents
 [1. Onderzoeksvragen](#onderzoeksvragen)<br>
 [2. Onderzoeksrichting](#onderzoeksrichting)<br>
