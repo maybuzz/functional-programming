@@ -1,4 +1,3 @@
-
 const axios = require('axios')
 const convert = require('xml-to-json-promise').xmlDataToJSON
 const chalk = require('chalk')
