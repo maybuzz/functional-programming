@@ -17,6 +17,20 @@
   - [Resources](### Resources)
 - [License](## License)     
 
+- data: wat heb je geleerd van de data, inhoudelijk -> hp en lr
+- inzichten tonen
+- functies die crashen, bugs
+- functional programming leering tonen, wat is functional binnen mijn ding
+- duidelijk laten zien welke code ik zelf heb geschreven
+- laten zien voor wat ik beter mn best heb gedaan
+
+appl. 5.5 understand 4 quality 4 process 2.5
+
+code aanpas naar nu
+structuur aanpassen
+readme benodigdheden
+goede voorbeelden 
+
 ## Installation
 
 
@@ -31,31 +45,31 @@ I picked `question 5`.
 
 Here I describe every question and explained why I didn't pick that one:
 
-<details><summary>**1. What day of the week most people come to the library to lend books?**</summary>    
+<details><summary>**1.** What day of the week most people come to the library to lend books?</summary>    
 
-  ```
+
   This question could not be answered because we did not have access to this type of data due to privacy of users/customers
-  ```
+
 
 </details>
 
-<details><summary>**2. What time of year do the most books get published?**</summary>    
+<details><summary>**2.** What time of year do the most books get published?</summary>    
 
-  ```
+
   I must say I didn't really try to answer this question because this meant getting publish-data of every book in the OBA -which is almost impossible-. Instead of changing the question and adding some type of genre or something, I went on with another question.
-  ```
+
 
 </details>
 
-<details><summary>**3. Do writers nowadays write more or less books than 50/60 years ago?**</summary>    
+<details><summary>**3.** Do writers nowadays write more or less books than 50/60 years ago?</summary>    
 
-  ```
+
 The reason I didn't proceed with this question is because I found it kind of hard to find this data. The OBA API contains all kinds of data, but not much about the author. For this question I should collect author data of modern book and older (50/60 year old) books. Then find out how many books were written by those writers. This is kind of hard -and not that interesting to me-.
-  ```
+
 
 </details>
 
-<details><summary>**4. Is there a connection to genres and the length of the titles?**</summary>    
+<details><summary>**4.** Is there a connection to genres and the length of the titles?</summary>    
 
 
   This question I tried to answer for a day or something. I thought it would be fun to do something with genres and titles and this was one of the first things that I thought of. First I wanted to compare titles and summaries and maybe do something with the total pages too. After a while I noticed it didn't really get my any further. And this wasn't really interesting to me either...
