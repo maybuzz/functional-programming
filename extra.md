@@ -73,20 +73,16 @@ Hier een overzicht van de resultaten voor de zoekopdrachten per auteur.
 facet:"language(dut)",
 q:"author:J.R.R. Tolkien" // = 29 resultaten
 ```
-[Resultaten voor "J.R.R. Tolkien" (dutch)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28dut%29&librarian=true&q=author%3AJ.R.R.%20Tolkien&refine=true)
 
 ```js
 facet:"language(dut)",
 q:"title:In de ban van de ring" // = 22 resultaten
 ```
-[Resultaten voor "In de ban van de Ring" (dutch)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28dut%29&librarian=true&q=title%3AIn%20de%20ban%20van%20de%20ring&refine=true)
 
 ```js
 facet:"language(dut)",
 q:"title:De hobbit" // =  24 resultaten
 ```
-[Resultaten voor "De Hobbit" (dutch)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28dut%29&librarian=true&q=title%3ADe%20hobbit&refine=true)
-
 
 ####  "Lord of the rings" & "The Hobbit", by J.R.R. Tolkien (english)
 
@@ -94,19 +90,16 @@ q:"title:De hobbit" // =  24 resultaten
 facet:"language(eng)",
 q:"author:J.R.R. Tolkien" // = 37 resultaten
 ```
-[Resultaten voor "J.R.R. Tolkien" (english)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28eng%29&librarian=true&q=author%3AJ.R.R.%20Tolkien&refine=true)
 
 ```js
 facet:"language(eng)",
 q:"title:Lord of the rings" // =  12 resultaten
 ```
-[Resultaten voor "Lord of the Rings" (english)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28eng%29&librarian=true&q=title%3ALord%20of%20the%20rings&refine=true)
 
 ```js
 facet:"language(eng)",
 q:"title:The hobbit" // =  6 resultaten
 ```
-[Resultaten voor "The Hobbit" (english)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28eng%29&librarian=true&q=title%3AThe%20hobbit&refine=true)
 
 ---
 
@@ -116,14 +109,11 @@ q:"title:The hobbit" // =  6 resultaten
 facet:"language(dut)",
 q:"auteur:J.K. Rowling" // = 19 resultaten
 ```
-[Resultaten voor "J.K. Rowling" (dutch)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28dut%29&librarian=true&q=author%3AJ.K.%20Rowling&refine=true)
 
 ```js
 facet:"language(dut)",
 q:"title: Harry Potter" // = 27 resultaten
 ```
-[Resultaten voor "Harry Potter" (dutch)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28dut%29&librarian=true&q=title%3AHarry%20Potter&refine=true)
-
 
 #### "Harry Potter", by J.K. Rowling (english)
 
@@ -131,13 +121,11 @@ q:"title: Harry Potter" // = 27 resultaten
 facet:"language(eng)",
 q:"author:J.K. Rowling" // =  25 resultaten
 ```
-[Resultaten voor "J.K. Rowling" (english)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28eng%29&librarian=true&q=author%3AJ.K.%20Rowling&refine=true)
 
 ```js
 facet:"language(eng)",
 q:"title: Harry Potter" // =  21 resultaten
 ```
-[Resultaten voor "Harry Potter" (english)](https://zoeken.oba.nl/api/v1/search/?authorization=1e19898c87464e239192c8bfe422f280&facet=type%28book%29&facet=language%28eng%29&librarian=true&q=title%3AHarry%20Potter&refine=true)
 
 
 ### API
