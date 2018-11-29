@@ -5,10 +5,6 @@ d3.json('/data/data.json').then( data => {
       return book.values[0].bookAuthor})
     .entries(data)
 
-  var allRowling = writers[0].values
-  var allTolkien = writers[1].values
-  console.log(allRowling, allTolkien);
-
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 1000
     height = 500 - margin.top - margin.bottom;
@@ -16,7 +12,6 @@ var margin = {top: 20, right: 20, bottom: 30, left: 40},
 var x0 = d3.scaleBand()
             .range([0, width])
             .padding(.1)
-
 
 var x1 = d3.scaleBand()
 
@@ -39,7 +34,6 @@ var svg = d3.select('#vis').append('svg')
               .style('overflow', 'visible')
             .append('g')
               .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
-
 
   var bookNames = data.map(d => { return d.book; })
   var authorName = data[0].values.map(d => { return d.bookAuthor; })
@@ -101,28 +95,4 @@ var svg = d3.select('#vis').append('svg')
     .on('mouseout', function(d) {
         d3.select(this).style('fill', color(d.bookAuthor));
     })
-
-  //Legend
-  // var legend = svg.selectAll('.legend')
-  //     .data(data[0].values.map(d => { return d.bookAuthor; }))
-  // .enter().append('g')
-  //     .attr('class', 'legend')
-  //     .attr('transform', function(d,i) { return 'translate(0,' + i * 20 + ')'; })
-  //     .style('opacity','0');
-  //
-  // legend.append('rect')
-  //     .attr('x', width - 18)
-  //     .attr('width', 18)
-  //     .attr('height', 18)
-  //     .style('fill', function(d) { return color(d); });
-  //
-  // legend.append('text')
-  //     .attr('x', width - 24)
-  //     .attr('y', 9)
-  //     .attr('dy', '.35em')
-  //     .style('text-anchor', 'end')
-  //     .text(function(d) {return d; });
-  //
-  // legend.transition().duration(500).delay(function(d,i){ return 1300 + 100 * i; }).style('opacity','1');
-
-});
+})
