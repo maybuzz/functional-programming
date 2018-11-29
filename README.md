@@ -4,20 +4,20 @@
 
 ## Table of contents
 
-- [Installation](## Installation)
-- [Introduction](## Introduction)    
-  - [Questions and hypothesis](### Questions and hypothesis)  
-- [Process](## Process)
-    - [First try](### First try)
-    - [Iterations](### Iterations)    
-    - [Conclusion](### Conclusion)       
-- [Data](## Data)    
-  - [API](## API)    
-  - [Code](## Code)   
-- [Todo](## Todo)
-- [Credits](## Credits)
-  - [Resources](### Resources)
-- [License](## License)     
+- [Installation](#installation)
+- [Introduction](#introduction)    
+  - [Questions and hypothesis](#questions-and-hypothesis)  
+- [Process](#process)
+    - [First try](#first-try)
+    - [Iterations](#iterations)    
+    - [Conclusion](#conclusion)       
+- [Data](#data)    
+  - [API](#API)    
+  - [Code](#code)   
+- [Todo](#todo)
+- [Credits](#credits)
+  - [Resources](#resources)
+- [License](#license)     
 
 - data: wat heb je geleerd van de data, inhoudelijk -> hp en lr
 - inzichten tonen
