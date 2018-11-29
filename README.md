@@ -29,7 +29,13 @@ appl. 5.5 understand 4 quality 4 process 2.5
 code aanpas naar nu
 structuur aanpassen
 readme benodigdheden
-goede voorbeelden 
+goede voorbeelden
+
+## Resit
+
+For this resit I updated my README.md. I am going to talk more about what I learned about functional programming and how I used this in my code.
+
+I also added more comments to my 
 
 ## Installation
 
