@@ -4,6 +4,7 @@
 
 ## Table of contents
 
+- [Resit](#resit)
 - [Installation](#installation)
 - [Introduction](#introduction)    
   - [Questions](#questions)
@@ -19,20 +20,6 @@
 - [Credits](#credits)
   - [Resources](#resources)
 - [License](#license)     
-
-- data: wat heb je geleerd van de data, inhoudelijk -> hp en lr
-- inzichten tonen
-- functies die crashen, bugs
-- functional programming leering tonen, wat is functional binnen mijn ding
-- duidelijk laten zien welke code ik zelf heb geschreven
-- laten zien voor wat ik beter mn best heb gedaan
-
-appl. 5.5 understand 4 quality 4 process 2.5
-
-code aanpas naar nu
-structuur aanpassen
-readme benodigdheden
-goede voorbeelden
 
 ## Resit
 
