@@ -1,6 +1,6 @@
 # Functional programming
 
-![datavis](datavis.npm)
+![datavis](datavis.png)
 
 ## Table of contents
 
