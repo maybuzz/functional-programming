@@ -189,8 +189,8 @@ I am not very happy with my product but oh well...
 Titus Wormer [@wooorm](https://github.com/wooorm)    
 `API` van Folkert-Jan vd Pol [@FJvdP](https://github.com/FJvdPol/functional-programming/blob/master/api/oba-api.js)    
 `API` van Gijs Laarman [@gijslaarman](https://github.com/gijslaarman/functional-programming/blob/master/modules/oba-api/index.js)   
-`Tips & Tricks` Dennis Wegereef [@Denniswegereef](https://github.com/denniswegereef)
-`README.md` van Daniel vd Velde [@danielvandevelde](https://github.com/DanielvandeVelde/functional-programming/blob/master/README.md)
+`Tips & Tricks` Dennis Wegereef [@Denniswegereef](https://github.com/denniswegereef)     
+`README.md` van Daniel vd Velde [@danielvandevelde](https://github.com/DanielvandeVelde/functional-programming/blob/master/README.md)     
 Chelsea, Linda and Jesse [@jesseDijkman1](https://github.com/jesseDijkman1?tab=followers) - I'm sorry I don't know the other github-handles -
 
 ### Resources
