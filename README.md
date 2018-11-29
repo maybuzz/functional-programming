@@ -34,6 +34,7 @@ My server folder holds my index.js, this is where I connect to the API and colle
 ## Installation
 ```bash
 # Clone this repo
+
 git clone https://github.com/maybuzz/frontend-data
 
 # Create a .env file to store the key, you should get your own key to get access
