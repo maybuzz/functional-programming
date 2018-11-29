@@ -1,5 +1,7 @@
 # Functional programming
 
+![datavis](datavis.npm)
+
 ## Table of contents
 
 - [Installation](## Installation)
@@ -35,7 +37,7 @@ goede voorbeelden
 
 For this resit I updated my README.md. I am going to talk more about what I learned about functional programming and how I used this in my code.
 
-I also added more comments to my 
+I also added more comments to my `d3/index.js` to show what I wrote myself and what I copied from the internet.
 
 ## Installation
 
